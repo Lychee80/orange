@@ -1,0 +1,12 @@
+# Ignore from local build
+settings.ini
+Gemfile.lock
+/Users/serafinawong/vscode/Test-1/_posts/2020-02-20-test.md
+/Users/serafinawong/vscode/Test-1/_posts/2022-08-28-bash-checks.md
+/Users/serafinawong/vscode/Test-1/_posts/2022-08-28-precis.md
+/Users/serafinawong/vscode/Test-1/_posts/2022-08-28-pythonHelloworld.md
+/Users/serafinawong/vscode/Test-1/_posts/2022-08-28-terms.md
+/Users/serafinawong/vscode/Test-1/_posts/2022-09-05-javaHelloworld.md
+/Users/serafinawong/vscode/Test-1/_posts/2022-09-06-console-copy.md
+/Users/serafinawong/vscode/Test-1/_posts/2022-09-06-java-lessons.md
+/Users/serafinawong/vscode/Test-1/_posts/2022-09-08-java-notes.md
